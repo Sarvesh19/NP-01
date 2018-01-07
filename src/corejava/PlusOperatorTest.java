@@ -10,5 +10,6 @@ public class PlusOperatorTest {
 		double d = 140000000;
 		int i = (int) d;
 		System.out.println(i);
+		//String 
 	}
 }

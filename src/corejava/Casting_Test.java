@@ -8,6 +8,7 @@ class Animal {
 }
 
 class Dog extends Animal {
+	@Override
 	void m1() {
 		System.out.println("m1 of dog"); // if i comment this then it will call
 											// super's method
